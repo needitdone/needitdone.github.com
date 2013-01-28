@@ -178,6 +178,9 @@ nav a:hover {
     li div {
         margin-left: 20px;
     }
+    a {
+        color: darken($brand, 10%);
+    }
 }
 
 
